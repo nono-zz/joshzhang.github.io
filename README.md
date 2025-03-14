@@ -1,3 +1,6 @@
+
+![Profile Picture](https://github.com/user-attachments/assets/1324fd89-a1f6-4a52-954d-aa4622771609){ width=150px style="border-radius: 50%;" }!
+
 # Josh (Zhaoxiang) Zhang  
 🚀 **Machine Learning Developer | AI Researcher**  
 📍 Edmonton, AB | 📧 [Email](mailto:joshzhang28@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/zhaoxiangzhangnonozz) | 🏗️ [GitHub](https://github.com/nono-zz)  
