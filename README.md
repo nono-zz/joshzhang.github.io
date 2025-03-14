@@ -43,26 +43,26 @@ Bachelor of Engineering in Control Technology
 
 ## 🚀 Selected Projects  
 
-### 🛣️ **[Road Condition Detection](https://github.com/yourusername/road-detection)**  
+### 🛣️ **Road Condition Detection**  
 📅 **Sep 2024 – Dec 2024** | **Azure, QGIS, Google Street View, Function App**  
 - Developed **ML-based distress detection** on **Google Street View images** to automate road condition analysis.  
 - Delivered a **lightweight, scalable solution** that reduced **manual labor for stakeholders**.  
 
-### 🔎 **[Detecting Fraudulent Users through Clustering & LLM](https://github.com/yourusername/fraud-detection)**  
+### 🔎 **Detecting Fraudulent Users through Clustering & LLM**  
 📅 **Apr 2024 – Aug 2024** | **Clustering, LLM**  
 - Analyzed **1M+ website transactions** using clustering & LLM-based user segmentation.  
 - Improved fraud detection efficiency, reducing **manual inspection time by 70%**.  
 
-### 📝 **[Branded Article Generation Using LLM](https://github.com/yourusername/article-generation)**  
+### 📝 **Branded Article Generation Using LLM**  
 📅 **Oct 2023 – Apr 2024** | **Vertex AI, OpenAI, GCP, Python, LLM**  
 - Built an **automated content generation pipeline** using **web scraping & NLP models**.  
 - Used **Few-Shot Prompting & Fine-Tuning** to generate **high-quality branded articles**.  
 
-### 🌲 **[Dead Tree Detection for Wildfire Monitoring](https://github.com/yourusername/dead-tree-detection)**  
+### 🌲 **Dead Tree Detection for Wildfire Monitoring**  
 📅 **May 2023 – Aug 2023** | **Python, Azure, ArcGIS Pro, Google Earth Engine, Docker**  
 - Developed an **ArcGIS Pro toolbox** for **automated dead tree detection**, enhancing wildfire prediction.  
 
-### 💪 **[EMG Control Simulator](https://github.com/yourusername/emg-simulator)**  
+### 💪 **EMG Control Simulator**  
 📅 **Jul 2022** | **Python, Arduino, PySerial**  
 - Built an **EMG signal processing tool** to capture, filter & simulate movements using a **3-DOF virtual arm**.  
 - Potential application in **bio-signal analysis & assistive technologies**.  
@@ -115,7 +115,6 @@ Bachelor of Engineering in Control Technology
 
 ## 🎮 Let's Connect!  
 
-💼 **Portfolio:** [yourusername.github.io](https://yourusername.github.io/)  
 📧 **Email:** [joshzhang28@gmail.com](mailto:joshzhang28@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/zhaoxiangzhangnonozz](https://www.linkedin.com/in/zhaoxiangzhangnonozz)  
 🏗️ **GitHub:** [github.com/nono-zz](https://github.com/nono-zz)  
