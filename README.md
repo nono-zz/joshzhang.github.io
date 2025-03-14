@@ -104,15 +104,6 @@ Bachelor of Engineering in Control Technology
 
 ---
 
-## 📌 How to Use This Markdown on GitHub  
-
-1. **Create a new GitHub repository** named `yourusername.github.io`.  
-2. **Upload this README.md file** (edit with your GitHub username).  
-3. Go to **Settings → GitHub Pages** → Select `Deploy from main branch`.  
-4. Your portfolio will be available at **`https://yourusername.github.io/`** 🚀  
-
----
-
 ## 🎮 Let's Connect!  
 
 📧 **Email:** [joshzhang28@gmail.com](mailto:joshzhang28@gmail.com)  
