@@ -1,0 +1,7 @@
+title: "Josh Zhang - Machine Learning Portfolio"
+author: "Josh Zhang"
+description: "Showcasing AI, ML, and Data Science Projects"
+theme: jekyll-theme-minimal
+show_downloads: false
+github:
+  is_project_page: false
